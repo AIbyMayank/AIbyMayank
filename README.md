@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **mayankduwedi67** For Collaboration/Project or Anything El
 - 👯 **I want to be a:** Successfull AI Engineer
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mayankduwedi67@gmail.com
-- 😄 **Pronouns:** Mayank
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AIbyMayank&theme=radical&no-frame=false&no-bg=true&margin-w=4)
